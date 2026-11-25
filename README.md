@@ -1,13 +1,13 @@
-# Hola, soy Kazus
+# Hi, I'm Kazus
 
-Me gusta construir aplicaciones web y herramientas que resuelven problemas concretos.
+I build web apps and tools that solve practical problems.
 
-## Proyectos que he desarrollado
+## Projects I've built
 
-- **[MisterAI](https://github.com/MisterAI-analitycs/misterai-frontend)** — Mi primer SaaS y mi proyecto principal. Estoy desarrollando una plataforma para automatizar el análisis táctico de partidos de fútbol mediante visión artificial. El enlace lleva al repositorio del frontend.
-- **[Moonlight Team](https://github.com/moonlight-team-whatsapp/moonlight-team-whatsapp.github.io)** — Desarrollé la web de una comunidad de roleplay de Genshin Impact en WhatsApp.
-- **[Sunaely Team](https://github.com/sunaely-team-whatsapp/sunaely-team-whatsapp.github.io)** — Desarrollé la web de una comunidad de roleplay de HoYoverse en WhatsApp.
-- **[RLC233](https://github.com/rlc233/rlc233.github.io)** — Desarrollé una galería web de fotos.
-- **[Panel de jugadores Cádiz](https://github.com/paneldejugadorescadiz/paneldejugadorescadiz.github.io)** — Desarrollé un panel web para consultar jugadores.
+- **[MisterAI](https://github.com/MisterAI-analitycs/misterai-frontend)** — My first SaaS and my main project. I'm building a platform that uses computer vision to automate tactical analysis of football matches. This link goes to the frontend repository.
+- **[Moonlight Team](https://github.com/moonlight-team-whatsapp/moonlight-team-whatsapp.github.io)** — I built the website for a Genshin Impact roleplay community on WhatsApp.
+- **[Sunaely Team](https://github.com/sunaely-team-whatsapp/sunaely-team-whatsapp.github.io)** — I built the website for a HoYoverse roleplay community on WhatsApp.
+- **[RLC233](https://github.com/rlc233/rlc233.github.io)** — I built a web photo gallery.
+- **[Panel de jugadores Cádiz](https://github.com/paneldejugadorescadiz/paneldejugadorescadiz.github.io)** — I built a web dashboard for looking up players.
 
-[Más proyectos en mi web](https://gtalex1.github.io/webs/)
+[More projects on my website](https://gtalex1.github.io/webs/)
